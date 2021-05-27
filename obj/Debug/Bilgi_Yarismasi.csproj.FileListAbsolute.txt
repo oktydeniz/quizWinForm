@@ -1,0 +1,20 @@
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\oktay\Documents\Ybs\C#\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
+E:\C# Programlama\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+E:\C# Programlama\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+E:\C# Programlama\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csprojAssemblyReference.cache
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+E:\C# Programlama\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
